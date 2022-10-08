@@ -1,0 +1,28 @@
+body{
+    background-color: black;   
+}
+.first{
+    color:white;
+    background-color: rgb(129, 14, 129);
+    height: 105px;
+}
+.sec{
+    color:greenyellow;
+    background-color: rgb(172, 38, 136);
+    height: 105px;
+}
+.third{
+    color:blue;
+    background-color: rgb(16, 75, 45);
+    height: 105px;
+}
+.four{
+    color:black;
+    background-color: rgba(138, 138, 19, 0.842);
+    height: 105px;
+}
+.fifth{
+    color:yellow;
+    background-color: rgba(102, 67, 184, 0.76);
+    height:105px;
+}
