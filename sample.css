@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.main{
+    background-color: green;
+}
+.first{
+    color:blue;
+    background-color: purple;
+    height:100px;
+    width:50%;
+    box-sizing: border-box;
+}
+.second{
+    color:blue;
+    background-color: rgb(214, 185, 20);
+    height:100px;
+    width:50%;
+    box-sizing: border-box;
+   
+
+}  

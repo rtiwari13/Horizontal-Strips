@@ -1,0 +1,35 @@
+body{
+    color: lawngreen;
+    background-color: black;
+   
+}
+#one{
+    font-family: monospace;
+}
+nav li{
+    display: inline-block;
+}
+.first{
+    background: green;
+    width:20%;
+    height: 75px;
+    border-radius: 5px;
+}
+.second{
+    background: green;
+    width:20%;
+    height: 75px;
+    border-radius: 5px;
+}
+.third{
+    background: green;
+    width:20%;
+    height: 75px;
+    border-radius: 5px;
+}
+.four{
+    background: green;
+    width:20%;
+    height: 75px;
+    border-radius: 5px;
+}
